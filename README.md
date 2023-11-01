@@ -1,5 +1,5 @@
 # CP4101_Multi_Modal_Entity_Resolution
 
-Code for my CP4101 B.Comp. Dissertation (Final Year Project).
+This repository contains the code for my CP4101 B.Comp. Dissertation (Final Year Project).
 
-Report [here](FYP-Final Report-H064740-Multi Modal Entity Resolution-Chen Xihao.pdf).
+My report can be found [here](https://github.com/howtoosee/CP4101_Multi_Modal_Entity_Resolution/blob/master/CP4101_FYP-Final%20_Report-H064740-Multi_Modal_Entity_Resolution.pdf).
